@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**heitorthiago/heitorthiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 **Chemical Engineering Student** at the State University of Maringá (UEM)  
+💻 Passionate about applying technology, programming, and data solutions to engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages & Tech Stack
+- **Languages:** Python, Java, C
+- **Main Focus:** Data Analysis, Process Automation, Engineering Computations
+
+### 🌐 Spoken Languages
+- 🇧🇷 **Portuguese:** Native
+- 🇬🇧 **English:** Advanced (C1)
+
+---
+
+### 📫 Connect with me
+- **LinkedIn:** [https://www.linkedin.com/in/heitor-ishida/]
+- **Email:** heitorishida001@gmail.com
